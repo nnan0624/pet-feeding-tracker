@@ -14,7 +14,7 @@ A modern, responsive web application built with React to help pet owners track a
 
 ## 🚀 Demo
 
-[Live Demo](https://your-demo-link.com) (Replace with your actual demo link)
+[Live Demo]([https://your-demo-link.com](https://claude.ai/public/artifacts/3329907d-e311-45ca-b16c-7fcb2d588ed7))
 
 ## 📱 Screenshots
 
@@ -179,7 +179,7 @@ Contributions are welcome! Here's how you can help:
 
 ## 🐛 Issues and Bugs
 
-Found a bug? Have a feature request? Please [open an issue](https://github.com/yourusername/pet-feeding-tracker/issues) with:
+Found a bug? Have a feature request? Please [open an issue](https://github.com/nnan0624/pet-feeding-tracker/issues) with:
 - Clear description of the problem or feature
 - Steps to reproduce (for bugs)
 - Expected vs actual behavior
@@ -198,9 +198,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Your Name** - [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) - your.email@example.com
-
-**Project Link**: [https://github.com/yourusername/pet-feeding-tracker](https://github.com/yourusername/pet-feeding-tracker)
+**Project Link**: [https://github.com/nnan0624/pet-feeding-tracker](https://github.com/yourusername/pet-feeding-tracker)
 
 ---
 
