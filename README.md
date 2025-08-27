@@ -198,7 +198,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-**Project Link**: [https://github.com/nnan0624/pet-feeding-tracker](https://github.com/yourusername/pet-feeding-tracker)
+**Project Link**: [https://github.com/nnan0624/pet-feeding-tracker](https://github.com/nnan0624/pet-feeding-tracker/tree/main)
 
 ---
 
