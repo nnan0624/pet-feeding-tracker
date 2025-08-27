@@ -14,7 +14,7 @@ A modern, responsive web application built with React to help pet owners track a
 
 ## 🚀 Demo
 
-[Live Demo]([https://claude.ai/public/artifacts/3329907d-e311-45ca-b16c-7fcb2d588ed7])
+[Live Demo](https://claude.ai/public/artifacts/3329907d-e311-45ca-b16c-7fcb2d588ed7)
 
 ## 📱 Screenshots
 
